@@ -1,0 +1,15 @@
+table,
+th,
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table>tbody>tr{
+    background-color: rgb(81, 244, 244); */
+}
+
+/* sis selektorius prisitaiko visiem elementams */
+
+.text-white
+:last-child
+#ipatinga-lentele tr>td :last-child

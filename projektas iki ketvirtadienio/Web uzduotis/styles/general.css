@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "mano sriftas";
+    src: url("../assets/fonts/Mandali-Regular.ttf") format("truetype");
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "mano sriftas";
+    src: url("../assets/fonts/Mandali-Regular.ttf") format("truetype");
+}
+
+/* visiem elementam pasiek ta pati srifta */
+* {
+    font-family: "Mandali", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button {
+    cursor: pointer;
+}
+
+/* text-accent {}
+
+text-dark {} */

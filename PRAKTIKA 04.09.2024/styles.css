@@ -1,0 +1,136 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer-table {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    display: inline-block;
+    max-width: 1140px;
+    margin: auto;
+
+}
+
+.footer-container {
+    width: 1140px;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    margin: auto;
+    display: flex;
+    flex: auto;
+
+}
+
+.footer-container ul {
+    list-style-type: none;
+
+
+    .footer-container h5 {
+        padding-left: 30px;
+
+        .footer-container .footer-table .center-h5 {
+            display: flex
+        } */
+
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+.bg-light {
+    background-color: #f8f9fa;
+
+}
+
+body body * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    /* background-image: url(image/); */
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+}
+
+.newletter-container {
+    position: absolute;
+    top: -100px;
+    width: 100%;
+
+
+}
+
+.container {
+    background-color: #343a40;
+    border-radius: 5px;
+    padding: 50px;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    background-image: url(img);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.left-side {
+    max-width: 500px;
+
+    h1 {
+        color: #fff;
+        font-size: 26px;
+    }
+
+    p {
+        font-size: 16px;
+        font-family: "Mondali" sans-serif;
+        color: #adb5bd;
+
+
+    }
+
+    .right-side {
+        .input-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            i {
+                margin: 0 10px;
+                color: #abd5ab;
+                font-size: 18px;
+            }
+
+            input {
+                outline: none;
+                border: none;
+                background-color: transparent;
+                font-family: "Mandali", sans-serif;
+                font-size: 16px;
+                color: #fff;
+
+
+            }
+
+            button {
+                outline: none;
+                border: none;
+                font-family: "Mandali", sans-serif;
+                font-size: 16px;
+                color: #fff;
+
+            }
+        }
+    }

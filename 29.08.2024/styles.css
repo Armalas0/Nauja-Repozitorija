@@ -1,0 +1,14 @@
+/* PATARIMAS VISO body margin PADARYT 0 KAD PUSLAPIS PASIDARYTU NUO PAT VIRŠAUS*/
+
+body{
+    margin: 0;
+}
+nav{
+    color: solid salmon;
+}
+.container{
+margin: 0;     /*   */
+max-width: 900px;
+height: 140px ;
+background-color: rgb(33, 39, 229);
+}
